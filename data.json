@@ -5,20 +5,20 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":falsa,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"yandex",
-      "inter_type":"yandex",
-      "native_type":"yandex",
-      "reward_type":"yandex",
+      "banner_type":"ironsource",
+      "inter_type":"ironsource",
+      "native_type":"ironsource",
+      "reward_type":"ironsource",
       
 
-      "ironsource_id":"jhd78302",
+      "ironsource_id":"1654739ed",
       "unity_id":"87320283",
      
 
