@@ -7,26 +7,36 @@
       "cpa_url":"yandex",
       "show_cpa":false,
 
+
+        
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+
         
         
       "banner_type":"ironsource",
       "inter_type":"ironsource",
       "native_type":"ironsource",
       "reward_type":"ironsource",
-      
+
+        
 
       "ironsource_id":"1654739ed",
       "unity_id":"87320283",
-     
+
+
+
+        
 
       "banner_yandex":"R-M-2125976-1",
       "native_yandex":"R-M-2125976-2",
       "interstitial_yandex":"R-M-2125976-3",
       "rewarde_yandex":"R-M-2125976-4",
 
+      
+
+        
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
